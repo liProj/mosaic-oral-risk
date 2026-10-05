@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "checks": {
+    "python_syntax": "passed",
+    "core_numerical_tests": 6,
+    "cohort_rows": 12049,
+    "feature_columns": [
+      18,
+      52,
+      114
+    ],
+    "corrected_test_rows_matched": 192,
+    "original_model_computation_preserved": true,
+    "aggregate_results_byte_identical": true,
+    "full_training_rerun": false
+  },
+  "validation_python": "3.12.14",
+  "validation_dependencies": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

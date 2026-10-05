@@ -1,0 +1,907 @@
+table,block,label,stat,value_paper,label_q,value_ours,verdict,agrees
+1,Sex,Female,n,1823.0,Female,1823.0,exact,True
+1,Sex,Female,pct,15.13,Female,15.13,exact,True
+1,Sex,Male,n,10226.0,Male,10226.0,exact,True
+1,Sex,Male,pct,84.87,Male,84.87,exact,True
+1,Sex,Age (years),mean,37.19,Age (years),37.19,exact,True
+1,Sex,Age (years),sd,11.56,Age (years),11.56,exact,True
+1,Type of occupation,Office,n,4357.0,Office,4357.0,exact,True
+1,Type of occupation,Office,pct,36.16,Office,36.16,exact,True
+1,Type of occupation,Manual/Physical,n,6584.0,Manual/Physical,6584.0,exact,True
+1,Type of occupation,Manual/Physical,pct,54.64,Manual/Physical,54.64,exact,True
+1,Type of occupation,Customer service/Social services,n,824.0,Customer service/Social services,824.0,exact,True
+1,Type of occupation,Customer service/Social services,pct,6.83,Customer service/Social services,6.84,exact,True
+1,Type of occupation,Healthcare professional,n,284.0,Healthcare professional,284.0,exact,True
+1,Type of occupation,Healthcare professional,pct,2.36,Healthcare professional,2.36,exact,True
+1,Night work,No,n,11255.0,No,11255.0,exact,True
+1,Night work,No,pct,93.41,No,93.41,exact,True
+1,Night work,Yes,n,794.0,Yes,794.0,exact,True
+1,Night work,Yes,pct,6.59,Yes,6.59,exact,True
+1,Years of exposure,Less than 1 year,n,6946.0,Less than 1 year,6965.0,differs by +19,False
+1,Years of exposure,Less than 1 year,pct,57.65,Less than 1 year,57.81,within 1%,True
+1,Years of exposure,1 to <5 years,n,2487.0,1 to <5 years,2492.0,differs by +5,False
+1,Years of exposure,1 to <5 years,pct,20.64,1 to <5 years,20.68,within 1%,True
+1,Years of exposure,5 to <10 years,n,1105.0,5 to <10 years,1108.0,differs by +3,False
+1,Years of exposure,5 to <10 years,pct,9.17,5 to <10 years,9.2,within 1%,True
+1,Years of exposure,≥10 years,n,1511.0,≥10 years,1484.0,differs by -27,False
+1,Years of exposure,≥10 years,pct,12.54,≥10 years,12.32,within 5%,False
+1,Smoker,No,n,7114.0,No,7114.0,exact,True
+1,Smoker,No,pct,59.04,No,59.04,exact,True
+1,Smoker,Yes,n,4935.0,Yes,4935.0,exact,True
+1,Smoker,Yes,pct,40.96,Yes,40.96,exact,True
+1,Alcohol consumption,No,n,6031.0,No,6031.0,exact,True
+1,Alcohol consumption,No,pct,50.05,No,50.05,exact,True
+1,Alcohol consumption,Yes,n,6018.0,Yes,6018.0,exact,True
+1,Alcohol consumption,Yes,pct,49.95,Yes,49.95,exact,True
+1,Alcohol consumption,Systolic blood pressure (mmHg),mean,111.27,Systolic blood pressure (mmHg),111.27,exact,True
+1,Alcohol consumption,Systolic blood pressure (mmHg),sd,12.26,Systolic blood pressure (mmHg),12.26,exact,True
+1,Alcohol consumption,Diastolic blood pressure (mmHg),mean,71.94,Diastolic blood pressure (mmHg),71.94,exact,True
+1,Alcohol consumption,Diastolic blood pressure (mmHg),sd,13.35,Diastolic blood pressure (mmHg),13.35,exact,True
+1,Alcohol consumption,Waist circumference (cm),mean,91.15,Waist circumference (cm),91.15,exact,True
+1,Alcohol consumption,Waist circumference (cm),sd,10.41,Waist circumference (cm),10.41,exact,True
+1,Alcohol consumption,Body mass index (BMI) (kg/m2),mean,27.15,Body mass index (BMI) (kg/m2),27.15,exact,True
+1,Alcohol consumption,Body mass index (BMI) (kg/m2),sd,3.99,Body mass index (BMI) (kg/m2),3.99,exact,True
+1,Alcohol consumption,Glucose (mg/dL),mean,92.44,Glucose (mg/dL),92.44,exact,True
+1,Alcohol consumption,Glucose (mg/dL),sd,20.8,Glucose (mg/dL),20.8,exact,True
+1,Alcohol consumption,Total cholesterol (mg/dL),mean,194.83,Total cholesterol (mg/dL),194.83,exact,True
+1,Alcohol consumption,Total cholesterol (mg/dL),sd,36.83,Total cholesterol (mg/dL),36.83,exact,True
+1,Alcohol consumption,Triglycerides (mg/dL),mean,143.63,Triglycerides (mg/dL),143.63,exact,True
+1,Alcohol consumption,Triglycerides (mg/dL),sd,80.93,Triglycerides (mg/dL),80.93,exact,True
+1,Caries (baseline),No,n,11888.0,No,11888.0,exact,True
+1,Caries (baseline),No,pct,98.66,No,98.66,exact,True
+1,Caries (baseline),Yes,n,161.0,Yes,161.0,exact,True
+1,Caries (baseline),Yes,pct,1.34,Yes,1.34,exact,True
+1,Gingivitis (baseline),No,n,11984.0,No,11984.0,exact,True
+1,Gingivitis (baseline),No,pct,99.46,No,99.46,exact,True
+1,Gingivitis (baseline),Yes,n,65.0,Yes,65.0,exact,True
+1,Gingivitis (baseline),Yes,pct,0.54,Yes,0.54,exact,True
+1,Caries or gingivitis (baseline),No,n,11851.0,No,11851.0,exact,True
+1,Caries or gingivitis (baseline),No,pct,98.36,No,98.36,exact,True
+1,Caries or gingivitis (baseline),Yes,n,198.0,Yes,198.0,exact,True
+1,Caries or gingivitis (baseline),Yes,pct,1.64,Yes,1.64,exact,True
+2,Overall,Overall incidence,rate,14.86,Overall incidence,14.860576629638672,exact,True
+2,Overall,Overall incidence,rate_lo,13.55,Overall incidence,13.547278457386406,exact,True
+2,Overall,Overall incidence,rate_hi,16.27,Overall incidence,16.266806393110738,exact,True
+2,Overall,Overall incidence,events,470.0,Overall incidence,470.0,exact,True
+2,Overall,Overall incidence,py,31627.3,Overall incidence,31627.306640625,exact,True
+2,Sex,Female,rate,8.73,Female,8.73020076751709,exact,True
+2,Sex,Female,rate_lo,6.29,Female,6.291961055536112,exact,True
+2,Sex,Female,rate_hi,11.8,Female,11.800695718181125,exact,True
+2,Sex,Female,events,42.0,Female,42.0,exact,True
+2,Sex,Female,py,4810.9,Female,4810.8857421875,exact,True
+2,Sex,Female,hr,1.0,Female,1.0,exact,True
+2,Sex,Male,rate,15.96,Male,15.960369110107422,exact,True
+2,Sex,Male,rate_lo,14.48,Male,14.483932774479461,exact,True
+2,Sex,Male,rate_hi,17.55,Male,17.546490338188143,exact,True
+2,Sex,Male,events,428.0,Male,428.0,exact,True
+2,Sex,Male,py,26816.4,Male,26816.421875,exact,True
+2,Sex,Male,hr,1.81,Male,1.8064359994261345,exact,True
+2,Sex,Male,hr_lo,1.32,Male,1.3154801632407227,exact,True
+2,Sex,Male,hr_hi,2.48,Male,2.48062351011336,exact,True
+2,Smoker,No,rate,14.27,No,14.266976356506348,exact,True
+2,Smoker,No,rate_lo,12.6,No,12.600784507452058,exact,True
+2,Smoker,No,rate_hi,16.09,No,16.092202007620898,exact,True
+2,Smoker,No,events,265.0,No,265.0,exact,True
+2,Smoker,No,py,18574.4,No,18574.36328125,exact,True
+2,Smoker,No,hr,1.0,No,1.0,exact,True
+2,Smoker,Yes,rate,15.71,Yes,15.705267906188965,exact,True
+2,Smoker,Yes,rate_lo,13.63,Yes,13.628832486804404,exact,True
+2,Smoker,Yes,rate_hi,18.01,Yes,18.008627320958077,exact,True
+2,Smoker,Yes,events,205.0,Yes,205.0,exact,True
+2,Smoker,Yes,py,13053.0,Yes,13052.9453125,exact,True
+2,Smoker,Yes,hr,1.08,Yes,1.0822547499502573,exact,True
+2,Smoker,Yes,hr_lo,0.9,Yes,0.9018707642493238,exact,True
+2,Smoker,Yes,hr_hi,1.3,Yes,1.298717499468796,exact,True
+2,Alcohol consumption,No,rate,14.52,No,14.515276908874512,exact,True
+2,Alcohol consumption,No,rate_lo,12.7,No,12.699848365293452,exact,True
+2,Alcohol consumption,No,rate_hi,16.52,No,16.517401879206425,exact,True
+2,Alcohol consumption,No,events,230.0,No,230.0,exact,True
+2,Alcohol consumption,No,py,15845.3,No,15845.375,exact,True
+2,Alcohol consumption,No,hr,1.0,No,1.0,exact,True
+2,Alcohol consumption,Yes,rate,15.21,Yes,15.20726203918457,exact,True
+2,Alcohol consumption,Yes,rate_lo,13.34,Yes,13.34401306673734,exact,True
+2,Alcohol consumption,Yes,rate_hi,17.26,Yes,17.257874252921653,exact,True
+2,Alcohol consumption,Yes,events,240.0,Yes,240.0,exact,True
+2,Alcohol consumption,Yes,py,15781.9,Yes,15781.93359375,exact,True
+2,Alcohol consumption,Yes,hr,1.05,Yes,1.0510120038339414,exact,True
+2,Alcohol consumption,Yes,hr_lo,0.88,Yes,0.8770824253365955,exact,True
+2,Alcohol consumption,Yes,hr_hi,1.26,Yes,1.2594326374503713,exact,True
+2,Night work,No,rate,14.83,No,14.832982063293457,exact,True
+2,Night work,No,rate_lo,13.48,No,13.476211369288407,exact,True
+2,Night work,No,rate_hi,16.29,No,16.28934390522795,exact,True
+2,Night work,No,events,438.0,No,438.0,exact,True
+2,Night work,No,py,29528.8,No,29528.7890625,exact,True
+2,Night work,No,hr,1.0,No,1.0,exact,True
+2,Night work,Yes,rate,15.25,Yes,15.24885082244873,exact,True
+2,Night work,Yes,rate_lo,10.43,Yes,10.430202637930838,exact,True
+2,Night work,Yes,rate_hi,21.53,Yes,21.52682744831603,exact,True
+2,Night work,Yes,events,32.0,Yes,32.0,exact,True
+2,Night work,Yes,py,2098.5,Yes,2098.518798828125,exact,True
+2,Night work,Yes,hr,0.94,Yes,0.9374933162577285,exact,True
+2,Night work,Yes,hr_lo,0.65,Yes,0.6546609132179457,exact,True
+2,Night work,Yes,hr_hi,1.34,Yes,1.3425174778004765,exact,True
+2,Type of occupation,Office,rate,11.62,Office,11.619513511657715,exact,True
+2,Type of occupation,Office,rate_lo,9.78,Office,9.78081555504184,exact,True
+2,Type of occupation,Office,rate_hi,13.7,Office,13.703438012370318,exact,True
+2,Type of occupation,Office,events,141.0,Office,141.0,exact,True
+2,Type of occupation,Office,py,12134.8,Office,12134.759765625,exact,True
+2,Type of occupation,Office,hr,1.0,Office,1.0,exact,True
+2,Type of occupation,Manual/Physical,rate,18.87,Manual/Physical,18.871112823486328,exact,True
+2,Type of occupation,Manual/Physical,rate_lo,16.83,Manual/Physical,16.831839861809527,exact,True
+2,Type of occupation,Manual/Physical,rate_hi,21.09,Manual/Physical,21.08935320250521,exact,True
+2,Type of occupation,Manual/Physical,events,311.0,Manual/Physical,311.0,exact,True
+2,Type of occupation,Manual/Physical,py,16480.2,Manual/Physical,16480.21484375,exact,True
+2,Type of occupation,Manual/Physical,hr,1.93,Manual/Physical,1.9313665266293993,exact,True
+2,Type of occupation,Manual/Physical,hr_lo,1.58,Manual/Physical,1.5818600632185473,exact,True
+2,Type of occupation,Manual/Physical,hr_hi,2.36,Manual/Physical,2.358095224045842,exact,True
+2,Type of occupation,Customer service/Social services,rate,1.3,Customer service/Social services,1.3035115003585815,exact,True
+2,Type of occupation,Customer service/Social services,rate_lo,0.27,Customer service/Social services,0.2688154185409648,exact,True
+2,Type of occupation,Customer service/Social services,rate_hi,3.81,Customer service/Social services,3.809413892249045,exact,True
+2,Type of occupation,Customer service/Social services,events,3.0,Customer service/Social services,3.0,exact,True
+2,Type of occupation,Customer service/Social services,py,2301.4,Customer service/Social services,2301.4755859375,exact,True
+2,Type of occupation,Customer service/Social services,hr,0.14,Customer service/Social services,0.13756208981894155,exact,True
+2,Type of occupation,Customer service/Social services,hr_lo,0.04,Customer service/Social services,0.043816579146047634,exact,True
+2,Type of occupation,Customer service/Social services,hr_hi,0.43,Customer service/Social services,0.4318759913292197,exact,True
+2,Type of occupation,Healthcare professional,rate,21.1,Healthcare professional,21.10133171081543,exact,True
+2,Type of occupation,Healthcare professional,rate_lo,11.81,Healthcare professional,11.810255474104396,exact,True
+2,Type of occupation,Healthcare professional,rate_hi,34.8,Healthcare professional,34.80343854781554,exact,True
+2,Type of occupation,Healthcare professional,events,15.0,Healthcare professional,15.0,exact,True
+2,Type of occupation,Healthcare professional,py,710.9,Healthcare professional,710.8555908203125,exact,True
+2,Type of occupation,Healthcare professional,hr,2.18,Healthcare professional,2.176729480588546,exact,True
+2,Type of occupation,Healthcare professional,hr_lo,1.28,Healthcare professional,1.2778617875354499,exact,True
+2,Type of occupation,Healthcare professional,hr_hi,3.71,Healthcare professional,3.707874574449498,exact,True
+2,Years of exposure,<1 year,rate,10.16,<1 year,10.190558433532715,within 1%,True
+2,Years of exposure,<1 year,rate_lo,8.75,<1 year,8.782258821283385,within 1%,True
+2,Years of exposure,<1 year,rate_hi,11.73,<1 year,11.760446319819092,within 1%,True
+2,Years of exposure,<1 year,events,186.0,<1 year,187.0,differs by +1,False
+2,Years of exposure,<1 year,py,18302.9,<1 year,18350.318359375,within 1%,True
+2,Years of exposure,<1 year,hr,1.0,<1 year,1.0,exact,True
+2,Years of exposure,1 to <5 years,rate,12.67,1 to <5 years,12.967527389526367,within 5%,False
+2,Years of exposure,1 to <5 years,rate_lo,10.01,1 to <5 years,10.282442650497062,within 5%,False
+2,Years of exposure,1 to <5 years,rate_hi,15.81,1 to <5 years,16.139210199178176,within 5%,False
+2,Years of exposure,1 to <5 years,events,78.0,1 to <5 years,80.0,differs by +2,False
+2,Years of exposure,1 to <5 years,py,6156.4,1 to <5 years,6169.25634765625,within 1%,True
+2,Years of exposure,1 to <5 years,hr,1.75,1 to <5 years,1.7877196045934323,within 5%,False
+2,Years of exposure,1 to <5 years,hr_lo,1.34,1 to <5 years,1.3704403548551414,within 5%,False
+2,Years of exposure,1 to <5 years,hr_hi,2.29,1 to <5 years,2.3320543453972613,within 5%,False
+2,Years of exposure,5 to <10 years,rate,24.16,5 to <10 years,23.753963470458984,within 5%,False
+2,Years of exposure,5 to <10 years,rate_lo,18.8,5 to <10 years,18.445882009229905,within 5%,False
+2,Years of exposure,5 to <10 years,rate_hi,30.57,5 to <10 years,30.113808690662808,within 5%,False
+2,Years of exposure,5 to <10 years,events,69.0,5 to <10 years,68.0,differs by -1,False
+2,Years of exposure,5 to <10 years,py,2856.4,5 to <10 years,2862.68017578125,within 1%,True
+2,Years of exposure,5 to <10 years,hr,3.21,5 to <10 years,3.133000228022365,within 5%,False
+2,Years of exposure,5 to <10 years,hr_lo,2.42,5 to <10 years,2.3628262303477254,within 5%,False
+2,Years of exposure,5 to <10 years,hr_hi,4.25,5 to <10 years,4.1542159566019645,within 5%,False
+2,Years of exposure,≥10 years,rate,31.78,≥10 years,31.80173683166504,within 1%,True
+2,Years of exposure,≥10 years,rate_lo,26.68,≥10 years,26.66368306311669,within 1%,True
+2,Years of exposure,≥10 years,rate_hi,37.56,≥10 years,37.64120344823005,within 1%,True
+2,Years of exposure,≥10 years,events,137.0,≥10 years,135.0,differs by -2,False
+2,Years of exposure,≥10 years,py,4311.5,≥10 years,4245.05126953125,within 5%,False
+2,Years of exposure,≥10 years,hr,3.61,≥10 years,3.5775068492224564,within 1%,True
+2,Years of exposure,≥10 years,hr_lo,2.87,≥10 years,2.8480372899348034,within 1%,True
+2,Years of exposure,≥10 years,hr_hi,4.53,≥10 years,4.4938158996248845,within 1%,True
+2,Age in years,Per 5-year increase,hr,1.07,Per 5-year increase,1.0735015387486004,exact,True
+2,Age in years,Per 5-year increase,hr_lo,1.03,Per 5-year increase,1.0339847379478584,exact,True
+2,Age in years,Per 5-year increase,hr_hi,1.11,Per 5-year increase,1.114528591575523,exact,True
+2,Age in years,Q1: 18–28,rate,11.37,Q1,11.365461349487305,exact,True
+2,Age in years,Q1: 18–28,rate_lo,9.18,Q1,9.184449528060888,exact,True
+2,Age in years,Q1: 18–28,rate_hi,13.91,Q1,13.908446069120865,exact,True
+2,Age in years,Q1: 18–28,events,94.0,Q1,94.0,exact,True
+2,Age in years,Q1: 18–28,py,8270.6,Q1,8270.671875,exact,True
+2,Age in years,Q2: >28–36,rate,14.47,Q2,14.469432830810547,exact,True
+2,Age in years,Q2: >28–36,rate_lo,11.95,Q2,11.946000770078735,exact,True
+2,Age in years,Q2: >28–36,rate_hi,17.37,Q2,17.368362765219096,exact,True
+2,Age in years,Q2: >28–36,events,115.0,Q2,115.0,exact,True
+2,Age in years,Q2: >28–36,py,7947.8,Q2,7947.7890625,exact,True
+2,Age in years,Q3: >36–45,rate,14.61,Q3,14.605268478393555,exact,True
+2,Age in years,Q3: >36–45,rate_lo,12.0,Q3,12.003754402325121,exact,True
+2,Age in years,Q3: >36–45,rate_hi,17.6,Q3,17.60329813457608,exact,True
+2,Age in years,Q3: >36–45,events,110.0,Q3,110.0,exact,True
+2,Age in years,Q3: >36–45,py,7531.5,Q3,7531.52880859375,exact,True
+2,Age in years,Q4: >45–76,rate,19.17,Q4,19.168962478637695,exact,True
+2,Age in years,Q4: >45–76,rate_lo,16.23,Q4,16.233475109179906,exact,True
+2,Age in years,Q4: >45–76,rate_hi,22.48,Q4,22.481870997439763,exact,True
+2,Age in years,Q4: >45–76,events,151.0,Q4,151.0,exact,True
+2,Age in years,Q4: >45–76,py,7877.3,Q4,7877.3173828125,exact,True
+2,Abdominal waist,Per 5 cm increase,hr,0.99,Per 5 cm increase,0.9903323249033801,exact,True
+2,Abdominal waist,Per 5 cm increase,hr_lo,0.94,Per 5 cm increase,0.9444874807915005,exact,True
+2,Abdominal waist,Per 5 cm increase,hr_hi,1.04,Per 5 cm increase,1.0384024496826978,exact,True
+2,Abdominal waist,Q1: 53–84,rate,18.49,Q1,18.488338470458984,exact,True
+2,Abdominal waist,Q1: 53–84,rate_lo,15.39,Q1,15.389530176686442,exact,True
+2,Abdominal waist,Q1: 53–84,rate_hi,22.03,Q1,22.028020740111153,exact,True
+2,Abdominal waist,Q1: 53–84,events,125.0,Q1,125.0,exact,True
+2,Abdominal waist,Q1: 53–84,py,6761.0,Q1,6761.0185546875,exact,True
+2,Abdominal waist,Q2: >84–91,rate,17.85,Q2,17.853042602539062,exact,True
+2,Abdominal waist,Q2: >84–91,rate_lo,14.75,Q2,14.752313929029016,exact,True
+2,Abdominal waist,Q2: >84–91,rate_hi,21.41,Q2,21.41302312697809,exact,True
+2,Abdominal waist,Q2: >84–91,events,116.0,Q2,116.0,exact,True
+2,Abdominal waist,Q2: >84–91,py,6497.5,Q2,6497.4921875,exact,True
+2,Abdominal waist,Q3: >91–98,rate,14.62,Q3,14.620611190795898,exact,True
+2,Abdominal waist,Q3: >91–98,rate_lo,11.76,Q3,11.756698052687586,exact,True
+2,Abdominal waist,Q3: >91–98,rate_hi,17.97,Q3,17.97121353054832,exact,True
+2,Abdominal waist,Q3: >91–98,events,90.0,Q3,90.0,exact,True
+2,Abdominal waist,Q3: >91–98,py,6155.7,Q3,6155.693359375,exact,True
+2,Abdominal waist,Q4: >98–147,rate,14.51,Q4,14.512215614318848,exact,True
+2,Abdominal waist,Q4: >98–147,rate_lo,11.54,Q4,11.54199591206775,exact,True
+2,Abdominal waist,Q4: >98–147,rate_hi,18.01,Q4,18.013486302563965,exact,True
+2,Abdominal waist,Q4: >98–147,events,82.0,Q4,82.0,exact,True
+2,Abdominal waist,Q4: >98–147,py,5650.4,Q4,5650.412109375,exact,True
+2,Systolic blood pressure,Per 5 mmHg increase,hr,1.02,Per 5 mmHg increase,1.0214702207425634,exact,True
+2,Systolic blood pressure,Per 5 mmHg increase,hr_lo,0.99,Per 5 mmHg increase,0.986627742658052,exact,True
+2,Systolic blood pressure,Per 5 mmHg increase,hr_hi,1.06,Per 5 mmHg increase,1.0575431510296442,exact,True
+2,Systolic blood pressure,Q1: 83–103,rate,12.85,Q1,12.84846305847168,exact,True
+2,Systolic blood pressure,Q1: 83–103,rate_lo,11.01,Q1,11.00515538521934,exact,True
+2,Systolic blood pressure,Q1: 83–103,rate_hi,14.91,Q1,14.912196529112926,exact,True
+2,Systolic blood pressure,Q1: 83–103,events,173.0,Q1,173.0,exact,True
+2,Systolic blood pressure,Q1: 83–103,py,13464.6,Q1,13464.6455078125,exact,True
+2,Systolic blood pressure,Q2: >103–113,rate,16.33,Q2,16.330352783203125,exact,True
+2,Systolic blood pressure,Q2: >103–113,rate_lo,13.73,Q2,13.728492713302394,exact,True
+2,Systolic blood pressure,Q2: >103–113,rate_hi,19.28,Q2,19.281890033795932,exact,True
+2,Systolic blood pressure,Q2: >103–113,events,139.0,Q2,139.0,exact,True
+2,Systolic blood pressure,Q2: >103–113,py,8511.8,Q2,8511.7568359375,exact,True
+2,Systolic blood pressure,Q3: >113–123,rate,16.49,Q3,16.489042282104492,exact,True
+2,Systolic blood pressure,Q3: >113–123,rate_lo,13.67,Q3,13.671054329965107,exact,True
+2,Systolic blood pressure,Q3: >113–123,rate_hi,19.72,Q3,19.716852157412475,exact,True
+2,Systolic blood pressure,Q3: >113–123,events,120.0,Q3,120.0,exact,True
+2,Systolic blood pressure,Q3: >113–123,py,7277.5,Q3,7277.560546875,exact,True
+2,Systolic blood pressure,Q4: >123–202,rate,15.89,Q4,15.886371612548828,exact,True
+2,Systolic blood pressure,Q4: >123–202,rate_lo,11.19,Q4,11.185471867956515,exact,True
+2,Systolic blood pressure,Q4: >123–202,rate_hi,21.9,Q4,21.89727095307735,exact,True
+2,Systolic blood pressure,Q4: >123–202,events,37.0,Q4,37.0,exact,True
+2,Systolic blood pressure,Q4: >123–202,py,2329.0,Q4,2329.040283203125,exact,True
+2,Diastolic blood pressure,Per 5 mmHg increase,hr,1.01,Per 5 mmHg increase,1.0073202239904087,exact,True
+2,Diastolic blood pressure,Per 5 mmHg increase,hr_lo,0.97,Per 5 mmHg increase,0.9699369716165153,exact,True
+2,Diastolic blood pressure,Per 5 mmHg increase,hr_hi,1.05,Per 5 mmHg increase,1.0461442994269814,exact,True
+2,Diastolic blood pressure,Q1: 53–63,rate,14.63,Q1,14.632935523986816,exact,True
+2,Diastolic blood pressure,Q1: 53–63,rate_lo,12.6,Q1,12.60022451930212,exact,True
+2,Diastolic blood pressure,Q1: 53–63,rate_hi,16.9,Q1,16.900212608720388,exact,True
+2,Diastolic blood pressure,Q1: 53–63,events,185.0,Q1,185.0,exact,True
+2,Diastolic blood pressure,Q1: 53–63,py,12642.7,Q1,12642.712890625,exact,True
+2,Diastolic blood pressure,Q2: >63–73,rate,12.98,Q2,12.97635269165039,exact,True
+2,Diastolic blood pressure,Q2: >63–73,rate_lo,10.87,Q2,10.872367960258678,exact,True
+2,Diastolic blood pressure,Q2: >63–73,rate_hi,15.37,Q2,15.36870700481582,exact,True
+2,Diastolic blood pressure,Q2: >63–73,events,134.0,Q2,134.0,exact,True
+2,Diastolic blood pressure,Q2: >63–73,py,10326.5,Q2,10326.4765625,exact,True
+2,Diastolic blood pressure,Q3: >73–83,rate,18.79,Q3,18.789791107177734,exact,True
+2,Diastolic blood pressure,Q3: >73–83,rate_lo,15.75,Q3,15.75401447275453,exact,True
+2,Diastolic blood pressure,Q3: >73–83,rate_hi,22.24,Q3,22.239990720396708,exact,True
+2,Diastolic blood pressure,Q3: >73–83,events,135.0,Q3,135.0,exact,True
+2,Diastolic blood pressure,Q3: >73–83,py,7184.7,Q3,7184.7529296875,exact,True
+2,Diastolic blood pressure,Q4: >83–123,rate,10.61,Q4,10.613515853881836,exact,True
+2,Diastolic blood pressure,Q4: >83–123,rate_lo,5.94,Q4,5.940304430310441,exact,True
+2,Diastolic blood pressure,Q4: >83–123,rate_hi,17.51,Q4,17.505380865717783,exact,True
+2,Diastolic blood pressure,Q4: >83–123,events,15.0,Q4,15.0,exact,True
+2,Diastolic blood pressure,Q4: >83–123,py,1413.3,Q4,1413.292236328125,exact,True
+2,Glucose,Per 5 mg/dL increase,hr,1.04,Per 5 mg/dL increase,1.0387183882346327,exact,True
+2,Glucose,Per 5 mg/dL increase,hr_lo,1.02,Per 5 mg/dL increase,1.020897721038394,exact,True
+2,Glucose,Per 5 mg/dL increase,hr_hi,1.06,Per 5 mg/dL increase,1.0568501308430058,exact,True
+2,Glucose,Q1: 56–83.1,rate,7.36,Q1,7.3563666343688965,exact,True
+2,Glucose,Q1: 56–83.1,rate_lo,5.54,Q1,5.541822010642176,exact,True
+2,Glucose,Q1: 56–83.1,rate_hi,9.58,Q1,9.575322187547558,exact,True
+2,Glucose,Q1: 56–83.1,events,55.0,Q1,55.0,exact,True
+2,Glucose,Q1: 56–83.1,py,7476.6,Q1,7476.51708984375,exact,True
+2,Glucose,Q2: >83.1–91,rate,9.82,Q2,9.819524765014648,exact,True
+2,Glucose,Q2: >83.1–91,rate_lo,7.59,Q2,7.594419896842781,exact,True
+2,Glucose,Q2: >83.1–91,rate_hi,12.49,Q2,12.492843390770856,exact,True
+2,Glucose,Q2: >83.1–91,events,66.0,Q2,66.0,exact,True
+2,Glucose,Q2: >83.1–91,py,6721.3,Q2,6721.302734375,exact,True
+2,Glucose,Q3: >91–98,rate,11.35,Q3,11.351740837097168,exact,True
+2,Glucose,Q3: >91–98,rate_lo,9.07,Q3,9.067367318725692,exact,True
+2,Glucose,Q3: >91–98,rate_hi,14.04,Q3,14.036603222497908,exact,True
+2,Glucose,Q3: >91–98,events,85.0,Q3,85.0,exact,True
+2,Glucose,Q3: >91–98,py,7487.8,Q3,7487.83837890625,exact,True
+2,Glucose,Q4: >98–377.7,rate,16.03,Q4,16.02787208557129,exact,True
+2,Glucose,Q4: >98–377.7,rate_lo,12.69,Q4,12.689416607087551,exact,True
+2,Glucose,Q4: >98–377.7,rate_hi,19.98,Q4,19.975509801186703,exact,True
+2,Glucose,Q4: >98–377.7,events,79.0,Q4,79.0,exact,True
+2,Glucose,Q4: >98–377.7,py,4929.0,Q4,4928.9140625,exact,True
+2,Triglycerides,Per 5 mg/dL increase,hr,1.01,Per 5 mg/dL increase,1.008068740246317,exact,True
+2,Triglycerides,Per 5 mg/dL increase,hr_lo,1.0,Per 5 mg/dL increase,1.001410437087257,exact,True
+2,Triglycerides,Per 5 mg/dL increase,hr_hi,1.01,Per 5 mg/dL increase,1.0147713139654952,exact,True
+2,Triglycerides,Q1: 27–89,rate,11.24,Q1,11.237424850463867,exact,True
+2,Triglycerides,Q1: 27–89,rate_lo,8.31,Q1,8.313508609655603,exact,True
+2,Triglycerides,Q1: 27–89,rate_hi,14.86,Q1,14.856471319472066,exact,True
+2,Triglycerides,Q1: 27–89,events,49.0,Q1,49.0,exact,True
+2,Triglycerides,Q1: 27–89,py,4360.4,Q1,4360.4296875,exact,True
+2,Triglycerides,Q2: >89–124,rate,11.47,Q2,11.469067573547363,exact,True
+2,Triglycerides,Q2: >89–124,rate_lo,8.48,Q2,8.484879195538054,exact,True
+2,Triglycerides,Q2: >89–124,rate_hi,15.16,Q2,15.162715327111245,exact,True
+2,Triglycerides,Q2: >89–124,events,49.0,Q2,49.0,exact,True
+2,Triglycerides,Q2: >89–124,py,4272.4,Q2,4272.361328125,exact,True
+2,Triglycerides,Q3: >124–178,rate,14.63,Q3,14.625011444091797,exact,True
+2,Triglycerides,Q3: >124–178,rate_lo,11.21,Q3,11.212912237802184,exact,True
+2,Triglycerides,Q3: >124–178,rate_hi,18.75,Q3,18.748604336470663,exact,True
+2,Triglycerides,Q3: >124–178,events,62.0,Q3,62.0,exact,True
+2,Triglycerides,Q3: >124–178,py,4239.3,Q3,4239.31298828125,exact,True
+2,Triglycerides,Q4: >178–957,rate,15.14,Q4,15.141351699829102,exact,True
+2,Triglycerides,Q4: >178–957,rate_lo,11.64,Q4,11.635030361700428,exact,True
+2,Triglycerides,Q4: >178–957,rate_hi,19.37,Q4,19.372366212145064,exact,True
+2,Triglycerides,Q4: >178–957,events,63.0,Q4,63.0,exact,True
+2,Triglycerides,Q4: >178–957,py,4160.8,Q4,4160.791015625,exact,True
+2,Total cholesterol,Per 5 mg/dL increase,hr,1.02,Per 5 mg/dL increase,1.0240787399473044,exact,True
+2,Total cholesterol,Per 5 mg/dL increase,hr_lo,1.01,Per 5 mg/dL increase,1.0092429987359746,exact,True
+2,Total cholesterol,Per 5 mg/dL increase,hr_hi,1.04,Per 5 mg/dL increase,1.0391325646306675,exact,True
+2,Total cholesterol,Q1: 79–167,rate,10.29,Q1,10.292790412902832,exact,True
+2,Total cholesterol,Q1: 79–167,rate_lo,7.54,Q1,7.535616513738223,exact,True
+2,Total cholesterol,Q1: 79–167,rate_hi,13.73,Q1,13.729140568057007,exact,True
+2,Total cholesterol,Q1: 79–167,events,46.0,Q1,46.0,exact,True
+2,Total cholesterol,Q1: 79–167,py,4469.2,Q1,4469.1474609375,exact,True
+2,Total cholesterol,Q2: >167–191,rate,12.01,Q2,12.00890064239502,exact,True
+2,Total cholesterol,Q2: >167–191,rate_lo,8.94,Q2,8.94141515831868,exact,True
+2,Total cholesterol,Q2: >167–191,rate_hi,15.79,Q2,15.789486286226678,exact,True
+2,Total cholesterol,Q2: >167–191,events,51.0,Q2,51.0,exact,True
+2,Total cholesterol,Q2: >167–191,py,4246.8,Q2,4246.85009765625,exact,True
+2,Total cholesterol,Q3: >191–219.45,rate,15.59,Q3,15.594108581542969,exact,True
+2,Total cholesterol,Q3: >191–219.45,rate_lo,12.04,Q3,12.035204074601946,exact,True
+2,Total cholesterol,Q3: >191–219.45,rate_hi,19.88,Q3,19.87597198155005,exact,True
+2,Total cholesterol,Q3: >191–219.45,events,65.0,Q3,65.0,exact,True
+2,Total cholesterol,Q3: >191–219.45,py,4168.2,Q3,4168.24072265625,exact,True
+2,Total cholesterol,Q4: >219.45–456.62,rate,14.65,Q4,14.649308204650879,exact,True
+2,Total cholesterol,Q4: >219.45–456.62,rate_lo,11.21,Q4,11.205560320328416,exact,True
+2,Total cholesterol,Q4: >219.45–456.62,rate_hi,18.82,Q4,18.817649752862604,exact,True
+2,Total cholesterol,Q4: >219.45–456.62,events,61.0,Q4,61.0,exact,True
+2,Total cholesterol,Q4: >219.45–456.62,py,4164.0,Q4,4164.01904296875,exact,True
+3,Overall,Overall incidence,rate,4.67,Overall incidence,4.6719069480896,exact,True
+3,Overall,Overall incidence,rate_lo,3.95,Overall incidence,3.951880073455345,exact,True
+3,Overall,Overall incidence,rate_hi,5.49,Overall incidence,5.485171130180313,exact,True
+3,Overall,Overall incidence,events,149.0,Overall incidence,149.0,exact,True
+3,Overall,Overall incidence,py,31892.7,Overall incidence,31892.7578125,exact,True
+3,Sex,Female,rate,3.1,Female,3.102257013320923,exact,True
+3,Sex,Female,rate_lo,1.74,Female,1.7363096553243313,exact,True
+3,Sex,Female,rate_hi,5.12,Female,5.116701033399252,exact,True
+3,Sex,Female,events,15.0,Female,15.0,exact,True
+3,Sex,Female,py,4835.2,Female,4835.189453125,exact,True
+3,Sex,Female,hr,1.0,Female,1.0,exact,True
+3,Sex,Male,rate,4.95,Male,4.952403545379639,exact,True
+3,Sex,Male,rate_lo,4.15,Male,4.149421390321882,exact,True
+3,Sex,Male,rate_hi,5.87,Male,5.865441808120633,exact,True
+3,Sex,Male,events,134.0,Male,134.0,exact,True
+3,Sex,Male,py,27057.6,Male,27057.568359375,exact,True
+3,Sex,Male,hr,1.55,Male,1.5510847266439352,exact,True
+3,Sex,Male,hr_lo,0.91,Male,0.909408974143313,exact,True
+3,Sex,Male,hr_hi,2.65,Male,2.645524618331898,exact,True
+3,Smoker,No,rate,4.75,No,4.752226829528809,exact,True
+3,Smoker,No,rate_lo,3.82,No,3.8164283220621864,exact,True
+3,Smoker,No,rate_hi,5.85,No,5.8480239690441245,exact,True
+3,Smoker,No,events,89.0,No,89.0,exact,True
+3,Smoker,No,py,18728.0,No,18728.0625,exact,True
+3,Smoker,No,hr,1.0,No,1.0,exact,True
+3,Smoker,Yes,rate,4.56,Yes,4.557644367218018,exact,True
+3,Smoker,Yes,rate_lo,3.48,Yes,3.4779628288497286,exact,True
+3,Smoker,Yes,rate_hi,5.87,Yes,5.8665917876056675,exact,True
+3,Smoker,Yes,events,60.0,Yes,60.0,exact,True
+3,Smoker,Yes,py,13164.7,Yes,13164.6953125,exact,True
+3,Smoker,Yes,hr,0.94,Yes,0.9447604625909958,exact,True
+3,Smoker,Yes,hr_lo,0.68,Yes,0.6809643988169828,exact,True
+3,Smoker,Yes,hr_hi,1.31,Yes,1.310747424132288,exact,True
+3,Alcohol consumption,No,rate,4.69,No,4.694678783416748,exact,True
+3,Alcohol consumption,No,rate_lo,3.69,No,3.6926626075802,exact,True
+3,Alcohol consumption,No,rate_hi,5.88,No,5.884820400457605,exact,True
+3,Alcohol consumption,No,events,75.0,No,75.0,exact,True
+3,Alcohol consumption,No,py,15975.5,No,15975.5341796875,exact,True
+3,Alcohol consumption,No,hr,1.0,No,1.0,exact,True
+3,Alcohol consumption,Yes,rate,4.65,Yes,4.649052143096924,exact,True
+3,Alcohol consumption,Yes,rate_lo,3.65,Yes,3.650505740433197,exact,True
+3,Alcohol consumption,Yes,rate_hi,5.84,Yes,5.836459023569149,exact,True
+3,Alcohol consumption,Yes,events,74.0,Yes,74.0,exact,True
+3,Alcohol consumption,Yes,py,15917.2,Yes,15917.2236328125,exact,True
+3,Alcohol consumption,Yes,hr,0.99,Yes,0.9867490545091775,exact,True
+3,Alcohol consumption,Yes,hr_lo,0.72,Yes,0.7156765102279988,exact,True
+3,Alcohol consumption,Yes,hr_hi,1.36,Yes,1.3604941375881747,exact,True
+3,Night work,No,rate,4.74,No,4.735575199127197,exact,True
+3,Night work,No,rate_lo,3.99,No,3.9862074333832282,exact,True
+3,Night work,No,rate_hi,5.58,No,5.5848866753916795,exact,True
+3,Night work,No,events,141.0,No,141.0,exact,True
+3,Night work,No,py,29774.6,No,29774.62890625,exact,True
+3,Night work,No,hr,1.0,No,1.0,exact,True
+3,Night work,Yes,rate,3.78,Yes,3.776921033859253,exact,True
+3,Night work,Yes,rate_lo,1.63,Yes,1.6306064069758999,exact,True
+3,Night work,Yes,rate_hi,7.44,Yes,7.44204003595173,exact,True
+3,Night work,Yes,events,8.0,Yes,8.0,exact,True
+3,Night work,Yes,py,2118.1,Yes,2118.12744140625,exact,True
+3,Night work,Yes,hr,0.74,Yes,0.7438069825378578,exact,True
+3,Night work,Yes,hr_lo,0.36,Yes,0.36479495188524613,exact,True
+3,Night work,Yes,hr_hi,1.52,Yes,1.5166022019024787,exact,True
+3,Type of occupation,Office,rate,4.74,Office,4.735560417175293,exact,True
+3,Type of occupation,Office,rate_lo,3.6,Office,3.5959094589272946,exact,True
+3,Type of occupation,Office,rate_hi,6.12,Office,6.121809796879072,exact,True
+3,Type of occupation,Office,events,58.0,Office,58.0,exact,True
+3,Type of occupation,Office,py,12247.7,Office,12247.7587890625,exact,True
+3,Type of occupation,Office,hr,1.0,Office,1.0,exact,True
+3,Type of occupation,Manual/Physical,rate,5.12,Manual/Physical,5.116018772125244,exact,True
+3,Type of occupation,Manual/Physical,rate_lo,4.09,Manual/Physical,4.086493896156671,exact,True
+3,Type of occupation,Manual/Physical,rate_hi,6.33,Manual/Physical,6.326036144256707,exact,True
+3,Type of occupation,Manual/Physical,events,85.0,Manual/Physical,85.0,exact,True
+3,Type of occupation,Manual/Physical,py,16614.5,Manual/Physical,16614.482421875,exact,True
+3,Type of occupation,Manual/Physical,hr,1.26,Manual/Physical,1.2618111787764938,exact,True
+3,Type of occupation,Manual/Physical,hr_lo,0.9,Manual/Physical,0.9026088291824238,exact,True
+3,Type of occupation,Manual/Physical,hr_hi,1.76,Manual/Physical,1.7639617511026322,exact,True
+3,Type of occupation,Customer service/Social services,rate,0.43,Customer service/Social services,0.43097344040870667,exact,True
+3,Type of occupation,Customer service/Social services,rate_lo,0.01,Customer service/Social services,0.01091130275228006,exact,True
+3,Type of occupation,Customer service/Social services,rate_hi,2.4,Customer service/Social services,2.4012303080897928,exact,True
+3,Type of occupation,Customer service/Social services,events,1.0,Customer service/Social services,1.0,exact,True
+3,Type of occupation,Customer service/Social services,py,2320.3,Customer service/Social services,2320.32861328125,exact,True
+3,Type of occupation,Customer service/Social services,hr,0.11,Customer service/Social services,0.10976062338129206,exact,True
+3,Type of occupation,Customer service/Social services,hr_lo,0.02,Customer service/Social services,0.015187309900394859,exact,True
+3,Type of occupation,Customer service/Social services,hr_hi,0.79,Customer service/Social services,0.7932540077250033,exact,True
+3,Type of occupation,Healthcare professional,rate,7.04,Healthcare professional,7.040394306182861,exact,True
+3,Type of occupation,Healthcare professional,rate_lo,2.29,Healthcare professional,2.28599685311051,exact,True
+3,Type of occupation,Healthcare professional,rate_hi,16.43,Healthcare professional,16.429931643858374,exact,True
+3,Type of occupation,Healthcare professional,events,5.0,Healthcare professional,5.0,exact,True
+3,Type of occupation,Healthcare professional,py,710.2,Healthcare professional,710.1875,exact,True
+3,Type of occupation,Healthcare professional,hr,1.75,Healthcare professional,1.7471145852958787,exact,True
+3,Type of occupation,Healthcare professional,hr_lo,0.7,Healthcare professional,0.7004883133874397,exact,True
+3,Type of occupation,Healthcare professional,hr_hi,4.36,Healthcare professional,4.357545037964544,exact,True
+3,Years of exposure,<1 year,rate,3.3,<1 year,3.295055627822876,exact,True
+3,Years of exposure,<1 year,rate_lo,2.53,<1 year,2.520456446144858,within 1%,True
+3,Years of exposure,<1 year,rate_hi,4.24,<1 year,4.232636768270833,within 1%,True
+3,Years of exposure,<1 year,events,61.0,<1 year,61.0,exact,True
+3,Years of exposure,<1 year,py,18465.2,<1 year,18512.5859375,within 1%,True
+3,Years of exposure,<1 year,hr,1.0,<1 year,1.0,exact,True
+3,Years of exposure,1 to <5 years,rate,5.63,1 to <5 years,5.779185771942139,within 5%,False
+3,Years of exposure,1 to <5 years,rate_lo,3.92,1 to <5 years,4.047670821449081,within 5%,False
+3,Years of exposure,1 to <5 years,rate_hi,7.83,1 to <5 years,8.000829421828664,within 5%,False
+3,Years of exposure,1 to <5 years,events,35.0,1 to <5 years,36.0,differs by +1,False
+3,Years of exposure,1 to <5 years,py,6216.4,1 to <5 years,6229.2509765625,within 1%,True
+3,Years of exposure,1 to <5 years,hr,2.28,1 to <5 years,2.3500569759347836,within 5%,False
+3,Years of exposure,1 to <5 years,hr_lo,1.49,1 to <5 years,1.5466920178856707,within 5%,False
+3,Years of exposure,1 to <5 years,hr_hi,3.47,1 to <5 years,3.5706965098904235,within 5%,False
+3,Years of exposure,5 to <10 years,rate,5.24,5 to <10 years,4.87652063369751,differs (4.877 vs 5.24),False
+3,Years of exposure,5 to <10 years,rate_lo,2.93,5 to <10 years,2.666039164872659,differs (2.666 vs 2.93),False
+3,Years of exposure,5 to <10 years,rate_hi,8.64,5 to <10 years,8.181972871211226,differs (8.182 vs 8.64),False
+3,Years of exposure,5 to <10 years,events,15.0,5 to <10 years,14.0,differs by -1,False
+3,Years of exposure,5 to <10 years,py,2864.6,5 to <10 years,2870.8994140625,within 1%,True
+3,Years of exposure,5 to <10 years,hr,2.1,5 to <10 years,1.9612609768721165,differs (1.961 vs 2.1),False
+3,Years of exposure,5 to <10 years,hr_lo,1.19,5 to <10 years,1.0896569395276647,differs (1.09 vs 1.19),False
+3,Years of exposure,5 to <10 years,hr_hi,3.73,5 to <10 years,3.5300510462207826,differs (3.53 vs 3.73),False
+3,Years of exposure,≥10 years,rate,8.74,≥10 years,8.878458976745605,within 5%,False
+3,Years of exposure,≥10 years,rate_lo,6.19,≥10 years,6.28292607304236,within 5%,False
+3,Years of exposure,≥10 years,rate_hi,12.0,≥10 years,12.186378773866325,within 5%,False
+3,Years of exposure,≥10 years,events,38.0,≥10 years,38.0,exact,True
+3,Years of exposure,≥10 years,py,4346.4,≥10 years,4280.02197265625,within 5%,False
+3,Years of exposure,≥10 years,hr,3.11,≥10 years,3.14935356748981,within 5%,False
+3,Years of exposure,≥10 years,hr_lo,2.05,≥10 years,2.0768908243933915,within 5%,False
+3,Years of exposure,≥10 years,hr_hi,4.72,≥10 years,4.775613516400276,within 5%,False
+3,Age in years,Per 5-year increase,hr,1.04,Per 5-year increase,1.0359909044213558,exact,True
+3,Age in years,Per 5-year increase,hr_lo,0.97,Per 5-year increase,0.9680012427707942,exact,True
+3,Age in years,Per 5-year increase,hr_hi,1.11,Per 5-year increase,1.1087559670601705,exact,True
+3,Age in years,Q1: 18–28,rate,3.61,Q1,3.6128361225128174,exact,True
+3,Age in years,Q1: 18–28,rate_lo,2.44,Q1,2.437565380977808,exact,True
+3,Age in years,Q1: 18–28,rate_hi,5.16,Q1,5.15754825368214,exact,True
+3,Age in years,Q1: 18–28,events,30.0,Q1,30.0,exact,True
+3,Age in years,Q1: 18–28,py,8303.7,Q1,8303.7255859375,exact,True
+3,Age in years,Q2: >28–36,rate,4.98,Q2,4.980276584625244,exact,True
+3,Age in years,Q2: >28–36,rate_lo,3.56,Q2,3.557982530414752,exact,True
+3,Age in years,Q2: >28–36,rate_hi,6.78,Q2,6.781723028674366,exact,True
+3,Age in years,Q2: >28–36,events,40.0,Q2,40.0,exact,True
+3,Age in years,Q2: >28–36,py,8031.7,Q2,8031.6826171875,exact,True
+3,Age in years,Q3: >36–45,rate,4.73,Q3,4.727366924285889,exact,True
+3,Age in years,Q3: >36–45,rate_lo,3.31,Q3,3.310989659119682,exact,True
+3,Age in years,Q3: >36–45,rate_hi,6.54,Q3,6.544668439853875,exact,True
+3,Age in years,Q3: >36–45,events,36.0,Q3,36.0,exact,True
+3,Age in years,Q3: >36–45,py,7615.2,Q3,7615.23291015625,exact,True
+3,Age in years,Q4: >45–76,rate,5.41,Q4,5.414174556732178,exact,True
+3,Age in years,Q4: >45–76,rate_lo,3.92,Q4,3.918264892967248,exact,True
+3,Age in years,Q4: >45–76,rate_hi,7.29,Q4,7.292857449200196,exact,True
+3,Age in years,Q4: >45–76,events,43.0,Q4,43.0,exact,True
+3,Age in years,Q4: >45–76,py,7942.1,Q4,7942.11572265625,exact,True
+3,Abdominal waist,Per 5 cm increase,hr,0.98,Per 5 cm increase,0.9829784479278051,exact,True
+3,Abdominal waist,Per 5 cm increase,hr_lo,0.89,Per 5 cm increase,0.8900632307325768,exact,True
+3,Abdominal waist,Per 5 cm increase,hr_hi,1.09,Per 5 cm increase,1.0855932429601391,exact,True
+3,Abdominal waist,Q1: 53–84,rate,4.4,Q1,4.401288032531738,exact,True
+3,Abdominal waist,Q1: 53–84,rate_lo,2.97,Q1,2.9695305361469413,exact,True
+3,Abdominal waist,Q1: 53–84,rate_hi,6.28,Q1,6.283112301511588,exact,True
+3,Abdominal waist,Q1: 53–84,events,30.0,Q1,30.0,exact,True
+3,Abdominal waist,Q1: 53–84,py,6816.2,Q1,6816.1865234375,exact,True
+3,Abdominal waist,Q2: >84–91,rate,4.12,Q2,4.123805046081543,exact,True
+3,Abdominal waist,Q2: >84–91,rate_lo,2.72,Q2,2.717613368079282,exact,True
+3,Abdominal waist,Q2: >84–91,rate_hi,6.0,Q2,5.999919520155153,exact,True
+3,Abdominal waist,Q2: >84–91,events,27.0,Q2,27.0,exact,True
+3,Abdominal waist,Q2: >84–91,py,6547.4,Q2,6547.3515625,exact,True
+3,Abdominal waist,Q3: >91–98,rate,2.43,Q3,2.4290084838867188,exact,True
+3,Abdominal waist,Q3: >91–98,rate_lo,1.36,Q3,1.3594975811077086,exact,True
+3,Abdominal waist,Q3: >91–98,rate_hi,4.01,Q3,4.006280018559382,exact,True
+3,Abdominal waist,Q3: >91–98,events,15.0,Q3,15.0,exact,True
+3,Abdominal waist,Q3: >91–98,py,6175.4,Q3,6175.359375,exact,True
+3,Abdominal waist,Q4: >98–147,rate,4.03,Q4,4.03157901763916,exact,True
+3,Abdominal waist,Q4: >98–147,rate_lo,2.56,Q4,2.555675174076453,exact,True
+3,Abdominal waist,Q4: >98–147,rate_hi,6.05,Q4,6.049347799733822,exact,True
+3,Abdominal waist,Q4: >98–147,events,23.0,Q4,23.0,exact,True
+3,Abdominal waist,Q4: >98–147,py,5705.0,Q4,5704.9609375,exact,True
+3,Systolic blood pressure,Per 5 mmHg increase,hr,1.07,Per 5 mmHg increase,1.0679009694474262,exact,True
+3,Systolic blood pressure,Per 5 mmHg increase,hr_lo,1.01,Per 5 mmHg increase,1.0069537341037167,exact,True
+3,Systolic blood pressure,Per 5 mmHg increase,hr_hi,1.13,Per 5 mmHg increase,1.1325371185616855,exact,True
+3,Systolic blood pressure,Q1: 83–103,rate,3.32,Q1,3.3183133602142334,exact,True
+3,Systolic blood pressure,Q1: 83–103,rate_lo,2.42,Q1,2.4204004975995224,exact,True
+3,Systolic blood pressure,Q1: 83–103,rate_hi,4.44,Q1,4.440164284513235,exact,True
+3,Systolic blood pressure,Q1: 83–103,events,45.0,Q1,45.0,exact,True
+3,Systolic blood pressure,Q1: 83–103,py,13561.1,Q1,13561.1064453125,exact,True
+3,Systolic blood pressure,Q2: >103–113,rate,5.0,Q2,5.004363536834717,exact,True
+3,Systolic blood pressure,Q2: >103–113,rate_lo,3.62,Q2,3.6216828251577016,exact,True
+3,Systolic blood pressure,Q2: >103–113,rate_hi,6.74,Q2,6.740845065758175,exact,True
+3,Systolic blood pressure,Q2: >103–113,events,43.0,Q2,43.0,exact,True
+3,Systolic blood pressure,Q2: >103–113,py,8592.5,Q2,8592.5009765625,exact,True
+3,Systolic blood pressure,Q3: >113–123,rate,7.35,Q3,7.354125499725342,exact,True
+3,Systolic blood pressure,Q3: >113–123,rate_lo,5.52,Q3,5.524645358537663,exact,True
+3,Systolic blood pressure,Q3: >113–123,rate_hi,9.6,Q3,9.59553843169708,exact,True
+3,Systolic blood pressure,Q3: >113–123,events,54.0,Q3,54.0,exact,True
+3,Systolic blood pressure,Q3: >113–123,py,7342.8,Q3,7342.8173828125,exact,True
+3,Systolic blood pressure,Q4: >123–202,rate,2.98,Q4,2.9761524200439453,exact,True
+3,Systolic blood pressure,Q4: >123–202,rate_lo,1.2,Q4,1.1965676528208284,exact,True
+3,Systolic blood pressure,Q4: >123–202,rate_hi,6.13,Q4,6.132011573854755,exact,True
+3,Systolic blood pressure,Q4: >123–202,events,7.0,Q4,7.0,exact,True
+3,Systolic blood pressure,Q4: >123–202,py,2352.0,Q4,2352.030029296875,exact,True
+3,Diastolic blood pressure,Per 5 mmHg increase,hr,1.03,Per 5 mmHg increase,1.0308596850494454,exact,True
+3,Diastolic blood pressure,Per 5 mmHg increase,hr_lo,1.0,Per 5 mmHg increase,1.0040216466618812,exact,True
+3,Diastolic blood pressure,Per 5 mmHg increase,hr_hi,1.06,Per 5 mmHg increase,1.0584151186315125,exact,True
+3,Diastolic blood pressure,Q1: 53–63,rate,3.15,Q1,3.1469483375549316,exact,True
+3,Diastolic blood pressure,Q1: 53–63,rate_lo,2.25,Q1,2.2482260397369758,exact,True
+3,Diastolic blood pressure,Q1: 53–63,rate_hi,4.29,Q1,4.285250469055087,exact,True
+3,Diastolic blood pressure,Q1: 53–63,events,40.0,Q1,40.0,exact,True
+3,Diastolic blood pressure,Q1: 53–63,py,12710.7,Q1,12710.7265625,exact,True
+3,Diastolic blood pressure,Q2: >63–73,rate,5.37,Q2,5.371478080749512,exact,True
+3,Diastolic blood pressure,Q2: >63–73,rate_lo,4.06,Q2,4.057556923394925,exact,True
+3,Diastolic blood pressure,Q2: >63–73,rate_hi,6.98,Q2,6.975311264514296,exact,True
+3,Diastolic blood pressure,Q2: >63–73,events,56.0,Q2,56.0,exact,True
+3,Diastolic blood pressure,Q2: >63–73,py,10425.5,Q2,10425.435546875,exact,True
+3,Diastolic blood pressure,Q3: >73–83,rate,6.75,Q3,6.750278472900391,exact,True
+3,Diastolic blood pressure,Q3: >73–83,rate_lo,4.99,Q3,4.993893056843279,exact,True
+3,Diastolic blood pressure,Q3: >73–83,rate_hi,8.92,Q3,8.924225914114539,exact,True
+3,Diastolic blood pressure,Q3: >73–83,events,49.0,Q3,49.0,exact,True
+3,Diastolic blood pressure,Q3: >73–83,py,7259.0,Q3,7258.9599609375,exact,True
+3,Diastolic blood pressure,Q4: >83–123,rate,2.78,Q4,2.7824811935424805,exact,True
+3,Diastolic blood pressure,Q4: >83–123,rate_lo,0.76,Q4,0.7581324515304879,exact,True
+3,Diastolic blood pressure,Q4: >83–123,rate_hi,7.12,Q4,7.1242567366057505,exact,True
+3,Diastolic blood pressure,Q4: >83–123,events,4.0,Q4,4.0,exact,True
+3,Diastolic blood pressure,Q4: >83–123,py,1437.5,Q4,1437.56591796875,exact,True
+3,Glucose,Per 5 mg/dL increase,hr,1.0,Per 5 mg/dL increase,1.0047476799461528,exact,True
+3,Glucose,Per 5 mg/dL increase,hr_lo,0.96,Per 5 mg/dL increase,0.9609425409623576,exact,True
+3,Glucose,Per 5 mg/dL increase,hr_hi,1.05,Per 5 mg/dL increase,1.050549702322651,exact,True
+3,Glucose,Q1: 56–83.1,rate,3.57,Q1,3.5675048828125,exact,True
+3,Glucose,Q1: 56–83.1,rate_lo,2.35,Q1,2.3510081530062052,exact,True
+3,Glucose,Q1: 56–83.1,rate_hi,5.19,Q1,5.190532205556302,exact,True
+3,Glucose,Q1: 56–83.1,events,27.0,Q1,27.0,exact,True
+3,Glucose,Q1: 56–83.1,py,7568.3,Q1,7568.31494140625,exact,True
+3,Glucose,Q2: >83.1–91,rate,5.62,Q2,5.624324798583984,exact,True
+3,Glucose,Q2: >83.1–91,rate_lo,3.98,Q2,3.9801068891517697,exact,True
+3,Glucose,Q2: >83.1–91,rate_hi,7.72,Q2,7.719825054091679,exact,True
+3,Glucose,Q2: >83.1–91,events,38.0,Q2,38.0,exact,True
+3,Glucose,Q2: >83.1–91,py,6756.4,Q2,6756.36669921875,exact,True
+3,Glucose,Q3: >91–98,rate,4.38,Q3,4.37946081161499,exact,True
+3,Glucose,Q3: >91–98,rate_lo,3.01,Q3,3.0146194488498277,exact,True
+3,Glucose,Q3: >91–98,rate_hi,6.15,Q3,6.150391527291585,exact,True
+3,Glucose,Q3: >91–98,events,33.0,Q3,33.0,exact,True
+3,Glucose,Q3: >91–98,py,7535.2,Q3,7535.173828125,exact,True
+3,Glucose,Q4: >98–377.7,rate,2.62,Q4,2.61783504486084,exact,True
+3,Glucose,Q4: >98–377.7,rate_lo,1.39,Q4,1.3938868971748333,exact,True
+3,Glucose,Q4: >98–377.7,rate_hi,4.48,Q4,4.47657761731285,exact,True
+3,Glucose,Q4: >98–377.7,events,13.0,Q4,13.0,exact,True
+3,Glucose,Q4: >98–377.7,py,4965.9,Q4,4965.935546875,exact,True
+3,Triglycerides,Per 5 mg/dL increase,hr,1.01,Per 5 mg/dL increase,1.0078522463101243,exact,True
+3,Triglycerides,Per 5 mg/dL increase,hr_lo,1.0,Per 5 mg/dL increase,0.9958917839478947,exact,True
+3,Triglycerides,Per 5 mg/dL increase,hr_hi,1.02,Per 5 mg/dL increase,1.019956351447828,exact,True
+3,Triglycerides,Q1: 27–89,rate,3.89,Q1,3.8894643783569336,exact,True
+3,Triglycerides,Q1: 27–89,rate_lo,2.27,Q1,2.2657563480855845,exact,True
+3,Triglycerides,Q1: 27–89,rate_hi,6.23,Q1,6.227409293288109,exact,True
+3,Triglycerides,Q1: 27–89,events,17.0,Q1,17.0,exact,True
+3,Triglycerides,Q1: 27–89,py,4370.8,Q1,4370.78173828125,exact,True
+3,Triglycerides,Q2: >89–124,rate,3.46,Q2,3.461792230606079,exact,True
+3,Triglycerides,Q2: >89–124,rate_lo,1.94,Q2,1.93753885500547,exact,True
+3,Triglycerides,Q2: >89–124,rate_hi,5.71,Q2,5.709699897859439,exact,True
+3,Triglycerides,Q2: >89–124,events,15.0,Q2,15.0,exact,True
+3,Triglycerides,Q2: >89–124,py,4333.0,Q2,4333.015625,exact,True
+3,Triglycerides,Q3: >124–178,rate,3.98,Q3,3.977705478668213,exact,True
+3,Triglycerides,Q3: >124–178,rate_lo,2.32,Q3,2.317159967913724,exact,True
+3,Triglycerides,Q3: >124–178,rate_hi,6.37,Q3,6.368691642600241,exact,True
+3,Triglycerides,Q3: >124–178,events,17.0,Q3,17.0,exact,True
+3,Triglycerides,Q3: >124–178,py,4273.8,Q3,4273.82080078125,exact,True
+3,Triglycerides,Q4: >178–957,rate,4.52,Q4,4.517534255981445,exact,True
+3,Triglycerides,Q4: >178–957,rate_lo,2.72,Q4,2.7198508564209622,exact,True
+3,Triglycerides,Q4: >178–957,rate_hi,7.05,Q4,7.054689671968773,exact,True
+3,Triglycerides,Q4: >178–957,events,19.0,Q4,19.0,exact,True
+3,Triglycerides,Q4: >178–957,py,4205.8,Q4,4205.833984375,exact,True
+3,Total cholesterol,Per 5 mg/dL increase,hr,1.01,Per 5 mg/dL increase,1.0141982498129278,exact,True
+3,Total cholesterol,Per 5 mg/dL increase,hr_lo,0.98,Per 5 mg/dL increase,0.9842712649686716,exact,True
+3,Total cholesterol,Per 5 mg/dL increase,hr_hi,1.05,Per 5 mg/dL increase,1.0450351712303065,exact,True
+3,Total cholesterol,Q1: 79–167,rate,3.33,Q1,3.328758478164673,exact,True
+3,Total cholesterol,Q1: 79–167,rate_lo,1.86,Q1,1.8630808396295002,exact,True
+3,Total cholesterol,Q1: 79–167,rate_hi,5.49,Q1,5.490280854112938,exact,True
+3,Total cholesterol,Q1: 79–167,events,15.0,Q1,15.0,exact,True
+3,Total cholesterol,Q1: 79–167,py,4506.2,Q1,4506.1845703125,exact,True
+3,Total cholesterol,Q2: >167–191,rate,5.38,Q2,5.378373622894287,exact,True
+3,Total cholesterol,Q2: >167–191,rate_lo,3.41,Q2,3.4094274735811263,exact,True
+3,Total cholesterol,Q2: >167–191,rate_hi,8.07,Q2,8.07020109396854,exact,True
+3,Total cholesterol,Q2: >167–191,events,23.0,Q2,23.0,exact,True
+3,Total cholesterol,Q2: >167–191,py,4276.4,Q2,4276.3857421875,exact,True
+3,Total cholesterol,Q3: >191–219.45,rate,3.72,Q3,3.7234671115875244,exact,True
+3,Total cholesterol,Q3: >191–219.45,rate_lo,2.21,Q3,2.2067625934435546,exact,True
+3,Total cholesterol,Q3: >191–219.45,rate_hi,5.88,Q3,5.8846833252930235,exact,True
+3,Total cholesterol,Q3: >191–219.45,events,18.0,Q3,18.0,exact,True
+3,Total cholesterol,Q3: >191–219.45,py,4834.2,Q3,4834.2041015625,exact,True
+3,Total cholesterol,Q4: >219.45–456.20,rate,3.36,Q4,3.3562004566192627,exact,True
+3,Total cholesterol,Q4: >219.45–456.20,rate_lo,1.73,Q4,1.7341977966006863,exact,True
+3,Total cholesterol,Q4: >219.45–456.20,rate_hi,5.86,Q4,5.8626069302299735,exact,True
+3,Total cholesterol,Q4: >219.45–456.20,events,12.0,Q4,12.0,exact,True
+3,Total cholesterol,Q4: >219.45–456.20,py,3575.4,Q4,3575.4716796875,exact,True
+4,Overall,Overall incidence,rate,17.2,Overall incidence,17.198806762695312,exact,True
+4,Overall,Overall incidence,rate_lo,15.78,Overall incidence,15.781165740509298,exact,True
+4,Overall,Overall incidence,rate_hi,18.71,Overall incidence,18.709619399691892,exact,True
+4,Overall,Overall incidence,events,542.0,Overall incidence,542.0,exact,True
+4,Overall,Overall incidence,py,31513.8,Overall incidence,31513.8125,exact,True
+4,Sex,Female,rate,10.61,Female,10.611435890197754,exact,True
+4,Sex,Female,rate_lo,7.9,Female,7.900910809690847,exact,True
+4,Sex,Female,rate_hi,13.95,Female,13.952078129629276,exact,True
+4,Sex,Female,events,51.0,Female,51.0,exact,True
+4,Sex,Female,py,4806.2,Female,4806.1357421875,exact,True
+4,Sex,Female,hr,1.0,Female,1.0,exact,True
+4,Sex,Male,rate,18.38,Male,18.384225845336914,exact,True
+4,Sex,Male,rate_lo,16.79,Male,16.793853902036254,exact,True
+4,Sex,Male,rate_hi,20.08,Male,20.084611447537707,exact,True
+4,Sex,Male,events,491.0,Male,491.0,exact,True
+4,Sex,Male,py,26707.7,Male,26707.6796875,exact,True
+4,Sex,Male,hr,1.72,Male,1.7156675299569235,exact,True
+4,Sex,Male,hr_lo,1.29,Male,1.2856506482395724,exact,True
+4,Sex,Male,hr_hi,2.29,Male,2.2895139339594426,exact,True
+4,Smoker,No,rate,16.59,No,16.58832359313965,exact,True
+4,Smoker,No,rate_lo,14.78,No,14.78443195442919,exact,True
+4,Smoker,No,rate_hi,18.55,No,18.551600829718055,exact,True
+4,Smoker,No,events,307.0,No,307.0,exact,True
+4,Smoker,No,py,18507.0,No,18506.994140625,exact,True
+4,Smoker,No,hr,1.0,No,1.0,exact,True
+4,Smoker,Yes,rate,18.07,Yes,18.067441940307617,exact,True
+4,Smoker,Yes,rate_lo,15.83,Yes,15.831106748913385,exact,True
+4,Smoker,Yes,rate_hi,20.53,Yes,20.531165283604672,exact,True
+4,Smoker,Yes,events,235.0,Yes,235.0,exact,True
+4,Smoker,Yes,py,13006.8,Yes,13006.822265625,exact,True
+4,Smoker,Yes,hr,1.07,Yes,1.0688999379086772,exact,True
+4,Smoker,Yes,hr_lo,0.9,Yes,0.9018809454850824,exact,True
+4,Smoker,Yes,hr_hi,1.27,Yes,1.2668491145986547,exact,True
+4,Alcohol consumption,No,rate,16.9,No,16.897445678710938,exact,True
+4,Alcohol consumption,No,rate_lo,14.93,No,14.931224357307888,exact,True
+4,Alcohol consumption,No,rate_hi,19.05,No,19.050597337173773,exact,True
+4,Alcohol consumption,No,events,267.0,No,267.0,exact,True
+4,Alcohol consumption,No,py,15801.2,No,15801.205078125,exact,True
+4,Alcohol consumption,No,hr,1.0,No,1.0,exact,True
+4,Alcohol consumption,Yes,rate,17.5,Yes,17.50186538696289,exact,True
+4,Alcohol consumption,Yes,rate_lo,15.49,Yes,15.494238120452554,exact,True
+4,Alcohol consumption,Yes,rate_hi,19.7,Yes,19.697421597447892,exact,True
+4,Alcohol consumption,Yes,events,275.0,Yes,275.0,exact,True
+4,Alcohol consumption,Yes,py,15712.6,Yes,15712.611328125,exact,True
+4,Alcohol consumption,Yes,hr,1.04,Yes,1.0401295909216723,exact,True
+4,Alcohol consumption,Yes,hr_lo,0.88,Yes,0.8788910277500568,exact,True
+4,Alcohol consumption,Yes,hr_hi,1.23,Yes,1.2309484700059456,exact,True
+4,Night work,No,rate,17.24,No,17.23512077331543,exact,True
+4,Night work,No,rate_lo,15.77,No,15.768754659297446,exact,True
+4,Night work,No,rate_hi,18.8,No,18.801148703160397,exact,True
+4,Night work,No,events,508.0,No,508.0,exact,True
+4,Night work,No,py,29474.7,No,29474.69921875,exact,True
+4,Night work,No,hr,1.0,No,1.0,exact,True
+4,Night work,Yes,rate,16.67,Yes,16.67389488220215,exact,True
+4,Night work,Yes,rate_lo,11.55,Yes,11.547157197858894,exact,True
+4,Night work,Yes,rate_hi,23.3,Yes,23.300097395925313,exact,True
+4,Night work,Yes,events,34.0,Yes,34.0,exact,True
+4,Night work,Yes,py,2039.1,Yes,2039.1156005859375,exact,True
+4,Night work,Yes,hr,0.89,Yes,0.8948477020871394,exact,True
+4,Night work,Yes,hr_lo,0.63,Yes,0.6322639453184511,exact,True
+4,Night work,Yes,hr_hi,1.27,Yes,1.266484378651894,exact,True
+4,Type of occupation,Office,rate,14.31,Office,14.306364059448242,exact,True
+4,Type of occupation,Office,rate_lo,12.25,Office,12.253898260882712,exact,True
+4,Type of occupation,Office,rate_hi,16.6,Office,16.604267065548218,exact,True
+4,Type of occupation,Office,events,173.0,Office,173.0,exact,True
+4,Type of occupation,Office,py,12092.5,Office,12092.5205078125,exact,True
+4,Type of occupation,Office,hr,1.0,Office,1.0,exact,True
+4,Type of occupation,Manual/Physical,rate,21.33,Manual/Physical,21.32634735107422,exact,True
+4,Type of occupation,Manual/Physical,rate_lo,19.15,Manual/Physical,19.15036299267135,exact,True
+4,Type of occupation,Manual/Physical,rate_hi,23.68,Manual/Physical,23.68185349144132,exact,True
+4,Type of occupation,Manual/Physical,events,350.0,Manual/Physical,350.0,exact,True
+4,Type of occupation,Manual/Physical,py,16411.7,Manual/Physical,16411.625,exact,True
+4,Type of occupation,Manual/Physical,hr,1.77,Manual/Physical,1.7694468303848347,exact,True
+4,Type of occupation,Manual/Physical,hr_lo,1.47,Manual/Physical,1.4738775193385814,exact,True
+4,Type of occupation,Manual/Physical,hr_hi,2.12,Manual/Physical,2.1242891926080687,exact,True
+4,Type of occupation,Customer service/Social services,rate,1.3,Customer service/Social services,1.3035115003585815,exact,True
+4,Type of occupation,Customer service/Social services,rate_lo,0.27,Customer service/Social services,0.2688154185409648,exact,True
+4,Type of occupation,Customer service/Social services,rate_hi,3.81,Customer service/Social services,3.809413892249045,exact,True
+4,Type of occupation,Customer service/Social services,events,3.0,Customer service/Social services,3.0,exact,True
+4,Type of occupation,Customer service/Social services,py,2301.4,Customer service/Social services,2301.4755859375,exact,True
+4,Type of occupation,Customer service/Social services,hr,0.11,Customer service/Social services,0.11052947162689666,exact,True
+4,Type of occupation,Customer service/Social services,hr_lo,0.04,Customer service/Social services,0.035284031093863626,exact,True
+4,Type of occupation,Customer service/Social services,hr_hi,0.35,Customer service/Social services,0.3462406000499648,exact,True
+4,Type of occupation,Healthcare professional,rate,22.59,Healthcare professional,22.592666625976562,exact,True
+4,Type of occupation,Healthcare professional,rate_lo,12.91,Healthcare professional,12.913661125724254,exact,True
+4,Type of occupation,Healthcare professional,rate_hi,36.69,Healthcare professional,36.68907535647189,exact,True
+4,Type of occupation,Healthcare professional,events,16.0,Healthcare professional,16.0,exact,True
+4,Type of occupation,Healthcare professional,py,708.2,Healthcare professional,708.1943969726562,exact,True
+4,Type of occupation,Healthcare professional,hr,1.88,Healthcare professional,1.8831523071224041,exact,True
+4,Type of occupation,Healthcare professional,hr_lo,1.13,Healthcare professional,1.1280760444922113,exact,True
+4,Type of occupation,Healthcare professional,hr_hi,3.14,Healthcare professional,3.1436379037875386,exact,True
+4,Years of exposure,<1 year,rate,11.69,<1 year,11.717267036437988,within 1%,True
+4,Years of exposure,<1 year,rate_lo,10.18,<1 year,10.199868741995763,within 1%,True
+4,Years of exposure,<1 year,rate_hi,13.37,<1 year,13.396769296085548,within 1%,True
+4,Years of exposure,<1 year,events,213.0,<1 year,214.0,differs by +1,False
+4,Years of exposure,<1 year,py,18216.3,<1 year,18263.64453125,within 1%,True
+4,Years of exposure,<1 year,hr,1.0,<1 year,1.0,exact,True
+4,Years of exposure,1 to <5 years,rate,15.63,1 to <5 years,15.923535346984863,within 5%,False
+4,Years of exposure,1 to <5 years,rate_lo,12.66,1 to <5 years,12.92749586157098,within 5%,False
+4,Years of exposure,1 to <5 years,rate_hi,19.09,1 to <5 years,19.40568947458149,within 5%,False
+4,Years of exposure,1 to <5 years,events,96.0,1 to <5 years,98.0,differs by +2,False
+4,Years of exposure,1 to <5 years,py,6141.6,1 to <5 years,6154.412109375,within 1%,True
+4,Years of exposure,1 to <5 years,hr,1.85,1 to <5 years,1.8791871479990623,within 5%,False
+4,Years of exposure,1 to <5 years,hr_lo,1.45,1 to <5 years,1.4743221898596726,within 5%,False
+4,Years of exposure,1 to <5 years,hr_hi,2.36,1 to <5 years,2.3952324407061703,within 5%,False
+4,Years of exposure,5 to <10 years,rate,25.66,5 to <10 years,25.256885528564453,within 5%,False
+4,Years of exposure,5 to <10 years,rate_lo,20.12,5 to <10 years,19.761957506870118,within 5%,False
+4,Years of exposure,5 to <10 years,rate_hi,32.27,5 to <10 years,31.80686747345407,within 5%,False
+4,Years of exposure,5 to <10 years,events,73.0,5 to <10 years,72.0,differs by -1,False
+4,Years of exposure,5 to <10 years,py,2844.4,5 to <10 years,2850.707763671875,within 1%,True
+4,Years of exposure,5 to <10 years,hr,2.92,5 to <10 years,2.8546063666775896,within 5%,False
+4,Years of exposure,5 to <10 years,hr_lo,2.23,5 to <10 years,2.176920046638352,within 5%,False
+4,Years of exposure,5 to <10 years,hr_hi,3.82,5 to <10 years,3.7432598965955375,within 5%,False
+4,Years of exposure,≥10 years,rate,37.11,≥10 years,37.219810485839844,within 1%,True
+4,Years of exposure,≥10 years,rate_lo,31.58,≥10 years,31.642496242322096,within 1%,True
+4,Years of exposure,≥10 years,rate_hi,43.33,≥10 years,43.49707393255141,within 1%,True
+4,Years of exposure,≥10 years,events,160.0,≥10 years,158.0,differs by -2,False
+4,Years of exposure,≥10 years,py,4311.5,≥10 years,4245.05126953125,within 5%,False
+4,Years of exposure,≥10 years,hr,3.61,≥10 years,3.590236944134459,within 1%,True
+4,Years of exposure,≥10 years,hr_lo,2.92,≥10 years,2.9060827536386706,within 1%,True
+4,Years of exposure,≥10 years,hr_hi,4.46,≥10 years,4.43545570025106,within 1%,True
+4,Age in years,Per 5-year increase,hr,1.08,Per 5-year increase,1.0794085529108675,exact,True
+4,Age in years,Per 5-year increase,hr_lo,1.04,Per 5-year increase,1.0423835611154921,exact,True
+4,Age in years,Per 5-year increase,hr_hi,1.12,Per 5-year increase,1.117748655639094,exact,True
+4,Age in years,Q1: 18–28,rate,12.91,Q1,12.91020393371582,exact,True
+4,Age in years,Q1: 18–28,rate_lo,10.57,Q1,10.569817321661848,exact,True
+4,Age in years,Q1: 18–28,rate_hi,15.61,Q1,15.614519988564888,exact,True
+4,Age in years,Q1: 18–28,events,106.0,Q1,106.0,exact,True
+4,Age in years,Q1: 18–28,py,8210.6,Q1,8210.5595703125,exact,True
+4,Age in years,Q2: >28–36,rate,16.66,Q2,16.661380767822266,exact,True
+4,Age in years,Q2: >28–36,rate_lo,13.94,Q2,13.940439437049847,exact,True
+4,Age in years,Q2: >28–36,rate_hi,19.76,Q2,19.75827170396002,exact,True
+4,Age in years,Q2: >28–36,events,132.0,Q2,132.0,exact,True
+4,Age in years,Q2: >28–36,py,7922.5,Q2,7922.5126953125,exact,True
+4,Age in years,Q3: >36–45,rate,16.61,Q3,16.613061904907227,exact,True
+4,Age in years,Q3: >36–45,rate_lo,13.83,Q3,13.828566009889215,exact,True
+4,Age in years,Q3: >36–45,rate_hi,19.79,Q3,19.793712697824763,exact,True
+4,Age in years,Q3: >36–45,events,125.0,Q3,125.0,exact,True
+4,Age in years,Q3: >36–45,py,7524.2,Q3,7524.2001953125,exact,True
+4,Age in years,Q4: >45–76,rate,22.78,Q4,22.783559799194336,exact,True
+4,Age in years,Q4: >45–76,rate_lo,19.57,Q4,19.56803381984587,exact,True
+4,Age in years,Q4: >45–76,rate_hi,26.38,Q4,26.37669948120007,exact,True
+4,Age in years,Q4: >45–76,events,179.0,Q4,179.0,exact,True
+4,Age in years,Q4: >45–76,py,7856.5,Q4,7856.5419921875,exact,True
+4,Abdominal waist,Per 5 cm increase,hr,0.99,Per 5 cm increase,0.9902566689301674,exact,True
+4,Abdominal waist,Per 5 cm increase,hr_lo,0.95,Per 5 cm increase,0.9465251332130252,exact,True
+4,Abdominal waist,Per 5 cm increase,hr_hi,1.04,Per 5 cm increase,1.0360086974467853,exact,True
+4,Abdominal waist,Q1: 53–84,rate,20.17,Q1,20.171722412109375,exact,True
+4,Abdominal waist,Q1: 53–84,rate_lo,16.92,Q1,16.924144046030708,exact,True
+4,Abdominal waist,Q1: 53–84,rate_hi,23.86,Q1,23.860889691875915,exact,True
+4,Abdominal waist,Q1: 53–84,events,136.0,Q1,136.0,exact,True
+4,Abdominal waist,Q1: 53–84,py,6742.1,Q1,6742.111328125,exact,True
+4,Abdominal waist,Q2: >84–91,rate,19.73,Q2,19.73027801513672,exact,True
+4,Abdominal waist,Q2: >84–91,rate_lo,16.46,Q2,16.460497643984063,exact,True
+4,Abdominal waist,Q2: >84–91,rate_hi,23.46,Q2,23.459364100607527,exact,True
+4,Abdominal waist,Q2: >84–91,events,128.0,Q2,128.0,exact,True
+4,Abdominal waist,Q2: >84–91,py,6487.5,Q2,6487.4912109375,exact,True
+4,Abdominal waist,Q3: >91–98,rate,15.84,Q3,15.83873176574707,exact,True
+4,Abdominal waist,Q3: >91–98,rate_lo,12.84,Q3,12.844144844800086,exact,True
+4,Abdominal waist,Q3: >91–98,rate_hi,19.32,Q3,19.32191009848209,exact,True
+4,Abdominal waist,Q3: >91–98,events,97.0,Q3,97.0,exact,True
+4,Abdominal waist,Q3: >91–98,py,6124.2,Q3,6124.2275390625,exact,True
+4,Abdominal waist,Q4: >98–147,rate,16.5,Q4,16.501787185668945,exact,True
+4,Abdominal waist,Q4: >98–147,rate_lo,13.32,Q4,13.3190714987498,exact,True
+4,Abdominal waist,Q4: >98–147,rate_hi,20.22,Q4,20.21580338523682,exact,True
+4,Abdominal waist,Q4: >98–147,events,93.0,Q4,93.0,exact,True
+4,Abdominal waist,Q4: >98–147,py,5635.7,Q4,5635.75341796875,exact,True
+4,Systolic blood pressure,Per 5 mmHg increase,hr,1.03,Per 5 mmHg increase,1.0349372015134364,exact,True
+4,Systolic blood pressure,Per 5 mmHg increase,hr_lo,1.0,Per 5 mmHg increase,1.0025141707884895,exact,True
+4,Systolic blood pressure,Per 5 mmHg increase,hr_hi,1.07,Per 5 mmHg increase,1.0684088487587502,exact,True
+4,Systolic blood pressure,Q1: 83–103,rate,14.01,Q1,14.00947380065918,exact,True
+4,Systolic blood pressure,Q1: 83–103,rate_lo,12.08,Q1,12.07837579430804,exact,True
+4,Systolic blood pressure,Q1: 83–103,rate_hi,16.16,Q1,16.16151903021189,exact,True
+4,Systolic blood pressure,Q1: 83–103,events,188.0,Q1,188.0,exact,True
+4,Systolic blood pressure,Q1: 83–103,py,13419.5,Q1,13419.490234375,exact,True
+4,Systolic blood pressure,Q2: >103–113,rate,19.23,Q2,19.230968475341797,exact,True
+4,Systolic blood pressure,Q2: >103–113,rate_lo,16.39,Q2,16.39198706831361,exact,True
+4,Systolic blood pressure,Q2: >103–113,rate_hi,22.42,Q2,22.4203730057961,exact,True
+4,Systolic blood pressure,Q2: >103–113,events,163.0,Q2,163.0,exact,True
+4,Systolic blood pressure,Q2: >103–113,py,8475.9,Q2,8475.912109375,exact,True
+4,Systolic blood pressure,Q3: >113–123,rate,20.7,Q3,20.703739166259766,exact,True
+4,Systolic blood pressure,Q3: >113–123,rate_lo,17.52,Q3,17.523115526325494,exact,True
+4,Systolic blood pressure,Q3: >113–123,rate_hi,24.29,Q3,24.294757375475367,exact,True
+4,Systolic blood pressure,Q3: >113–123,events,150.0,Q3,150.0,exact,True
+4,Systolic blood pressure,Q3: >113–123,py,7245.1,Q3,7245.06787109375,exact,True
+4,Systolic blood pressure,Q4: >123–202,rate,17.17,Q4,17.174455642700195,exact,True
+4,Systolic blood pressure,Q4: >123–202,rate_lo,12.27,Q4,12.269683202940412,exact,True
+4,Systolic blood pressure,Q4: >123–202,rate_hi,23.39,Q4,23.386734594849273,exact,True
+4,Systolic blood pressure,Q4: >123–202,events,40.0,Q4,40.0,exact,True
+4,Systolic blood pressure,Q4: >123–202,py,2329.0,Q4,2329.040283203125,exact,True
+4,Diastolic blood pressure,Per 5 mmHg increase,hr,1.02,Per 5 mmHg increase,1.0184590315053956,exact,True
+4,Diastolic blood pressure,Per 5 mmHg increase,hr_lo,0.99,Per 5 mmHg increase,0.9935476847532827,exact,True
+4,Diastolic blood pressure,Per 5 mmHg increase,hr_hi,1.04,Per 5 mmHg increase,1.04399498360512,exact,True
+4,Diastolic blood pressure,Q1: 53–63,rate,15.72,Q1,15.724658012390137,exact,True
+4,Diastolic blood pressure,Q1: 53–63,rate_lo,13.61,Q1,13.61055582198036,exact,True
+4,Diastolic blood pressure,Q1: 53–63,rate_hi,18.07,Q1,18.07409127385339,exact,True
+4,Diastolic blood pressure,Q1: 53–63,events,198.0,Q1,198.0,exact,True
+4,Diastolic blood pressure,Q1: 53–63,py,12591.7,Q1,12591.6884765625,exact,True
+4,Diastolic blood pressure,Q2: >63–73,rate,15.65,Q2,15.654865264892578,exact,True
+4,Diastolic blood pressure,Q2: >63–73,rate_lo,13.33,Q2,13.330079775978822,exact,True
+4,Diastolic blood pressure,Q2: >63–73,rate_hi,18.27,Q2,18.26849909309188,exact,True
+4,Diastolic blood pressure,Q2: >63–73,events,161.0,Q2,161.0,exact,True
+4,Diastolic blood pressure,Q2: >63–73,py,10284.4,Q2,10284.3427734375,exact,True
+4,Diastolic blood pressure,Q3: >73–83,rate,23.03,Q3,23.025497436523438,exact,True
+4,Diastolic blood pressure,Q3: >73–83,rate_lo,19.65,Q3,19.646180708122657,exact,True
+4,Diastolic blood pressure,Q3: >73–83,rate_hi,26.82,Q3,26.819232306968903,exact,True
+4,Diastolic blood pressure,Q3: >73–83,events,165.0,Q3,165.0,exact,True
+4,Diastolic blood pressure,Q3: >73–83,py,7166.0,Q3,7165.96875,exact,True
+4,Diastolic blood pressure,Q4: >83–123,rate,12.04,Q4,12.041831970214844,exact,True
+4,Diastolic blood pressure,Q4: >83–123,rate_lo,7.02,Q4,7.0148107023286,within 1%,True
+4,Diastolic blood pressure,Q4: >83–123,rate_hi,19.28,Q4,19.280139011967552,exact,True
+4,Diastolic blood pressure,Q4: >83–123,events,17.0,Q4,17.0,exact,True
+4,Diastolic blood pressure,Q4: >83–123,py,1411.7,Q4,1411.745361328125,exact,True
+4,Glucose,Per 5 mg/dL increase,hr,1.03,Per 5 mg/dL increase,1.0343524033756988,exact,True
+4,Glucose,Per 5 mg/dL increase,hr_lo,1.02,Per 5 mg/dL increase,1.0172142676485263,exact,True
+4,Glucose,Per 5 mg/dL increase,hr_hi,1.05,Per 5 mg/dL increase,1.0517792842626124,exact,True
+4,Glucose,Q1: 56–83.1,rate,9.39,Q1,9.390863418579102,exact,True
+4,Glucose,Q1: 56–83.1,rate_lo,7.32,Q1,7.3206387053364,exact,True
+4,Glucose,Q1: 56–83.1,rate_hi,11.86,Q1,11.864790926079294,exact,True
+4,Glucose,Q1: 56–83.1,events,70.0,Q1,70.0,exact,True
+4,Glucose,Q1: 56–83.1,py,7454.0,Q1,7454.0537109375,exact,True
+4,Glucose,Q2: >83.1–91,rate,12.82,Q2,12.8175630569458,exact,True
+4,Glucose,Q2: >83.1–91,rate_lo,10.25,Q2,10.25239566278243,exact,True
+4,Glucose,Q2: >83.1–91,rate_hi,15.83,Q2,15.829585624243265,exact,True
+4,Glucose,Q2: >83.1–91,events,86.0,Q2,86.0,exact,True
+4,Glucose,Q2: >83.1–91,py,6709.6,Q2,6709.5439453125,exact,True
+4,Glucose,Q3: >91–98,rate,14.24,Q3,14.244292259216309,exact,True
+4,Glucose,Q3: >91–98,rate_lo,11.66,Q3,11.662059404308868,exact,True
+4,Glucose,Q3: >91–98,rate_hi,17.23,Q3,17.228061198675622,exact,True
+4,Glucose,Q3: >91–98,events,106.0,Q3,106.0,exact,True
+4,Glucose,Q3: >91–98,py,7441.6,Q3,7441.5771484375,exact,True
+4,Glucose,Q4: >98–377.7,rate,16.93,Q4,16.93467903137207,exact,True
+4,Glucose,Q4: >98–377.7,rate_lo,13.49,Q4,13.488376652043764,exact,True
+4,Glucose,Q4: >98–377.7,rate_hi,20.99,Q4,20.993081533685142,exact,True
+4,Glucose,Q4: >98–377.7,events,83.0,Q4,83.0,exact,True
+4,Glucose,Q4: >98–377.7,py,4901.2,Q4,4901.185546875,exact,True
+4,Triglycerides,Per 5 mg/dL increase,hr,1.01,Per 5 mg/dL increase,1.0094499475649763,exact,True
+4,Triglycerides,Per 5 mg/dL increase,hr_lo,1.0,Per 5 mg/dL increase,1.0034957401943714,exact,True
+4,Triglycerides,Per 5 mg/dL increase,hr_hi,1.02,Per 5 mg/dL increase,1.015439484019694,exact,True
+4,Triglycerides,Q1: 27–89,rate,12.88,Q1,12.881651878356934,exact,True
+4,Triglycerides,Q1: 27–89,rate_lo,9.73,Q1,9.730661368278648,exact,True
+4,Triglycerides,Q1: 27–89,rate_hi,16.73,Q1,16.72789640041284,exact,True
+4,Triglycerides,Q1: 27–89,events,56.0,Q1,56.0,exact,True
+4,Triglycerides,Q1: 27–89,py,4347.3,Q1,4347.2685546875,exact,True
+4,Triglycerides,Q2: >89–124,rate,12.2,Q2,12.203113555908203,exact,True
+4,Triglycerides,Q2: >89–124,rate_lo,9.11,Q2,9.113869020097232,exact,True
+4,Triglycerides,Q2: >89–124,rate_hi,16.0,Q2,16.002760116309517,exact,True
+4,Triglycerides,Q2: >89–124,events,52.0,Q2,52.0,exact,True
+4,Triglycerides,Q2: >89–124,py,4261.2,Q2,4261.20751953125,exact,True
+4,Triglycerides,Q3: >124–178,rate,17.25,Q3,17.25342559814453,exact,True
+4,Triglycerides,Q3: >124–178,rate_lo,13.5,Q3,13.499742470904177,exact,True
+4,Triglycerides,Q3: >124–178,rate_hi,21.73,Q3,21.727833366129634,exact,True
+4,Triglycerides,Q3: >124–178,events,72.0,Q3,72.0,exact,True
+4,Triglycerides,Q3: >124–178,py,4173.1,Q3,4173.08447265625,exact,True
+4,Triglycerides,Q4: >178–957,rate,18.13,Q4,18.133310317993164,exact,True
+4,Triglycerides,Q4: >178–957,rate_lo,14.29,Q4,14.286986585368853,exact,True
+4,Triglycerides,Q4: >178–957,rate_hi,22.7,Q4,22.696542674572857,exact,True
+4,Triglycerides,Q4: >178–957,events,76.0,Q4,76.0,exact,True
+4,Triglycerides,Q4: >178–957,py,4191.2,Q4,4191.181640625,exact,True
+4,Total cholesterol,Per 5 mg/dL increase,hr,1.03,Per 5 mg/dL increase,1.0257768826986486,exact,True
+4,Total cholesterol,Per 5 mg/dL increase,hr_lo,1.01,Per 5 mg/dL increase,1.0123569920422693,exact,True
+4,Total cholesterol,Per 5 mg/dL increase,hr_hi,1.04,Per 5 mg/dL increase,1.0393746685704954,exact,True
+4,Total cholesterol,Q1: 79–167,rate,11.88,Q1,11.877618789672852,exact,True
+4,Total cholesterol,Q1: 79–167,rate_lo,8.9,Q1,8.897151581618152,exact,True
+4,Total cholesterol,Q1: 79–167,rate_hi,15.54,Q1,15.536217906225017,exact,True
+4,Total cholesterol,Q1: 79–167,events,53.0,Q1,53.0,exact,True
+4,Total cholesterol,Q1: 79–167,py,4462.2,Q1,4462.173828125,exact,True
+4,Total cholesterol,Q2: >167–191,rate,14.44,Q2,14.440820693969727,exact,True
+4,Total cholesterol,Q2: >167–191,rate_lo,11.05,Q2,11.046083417202967,exact,True
+4,Total cholesterol,Q2: >167–191,rate_hi,18.55,Q2,18.54983802182032,exact,True
+4,Total cholesterol,Q2: >167–191,events,61.0,Q2,61.0,exact,True
+4,Total cholesterol,Q2: >167–191,py,4224.1,Q2,4224.13671875,exact,True
+4,Total cholesterol,Q3: >191–219.45,rate,17.08,Q3,17.079267501831055,exact,True
+4,Total cholesterol,Q3: >191–219.45,rate_lo,13.34,Q3,13.33904972419957,exact,True
+4,Total cholesterol,Q3: >191–219.45,rate_hi,21.54,Q3,21.543172168027027,exact,True
+4,Total cholesterol,Q3: >191–219.45,events,71.0,Q3,71.0,exact,True
+4,Total cholesterol,Q3: >191–219.45,py,4157.1,Q3,4157.0869140625,exact,True
+4,Total cholesterol,Q4: >219.45–456.62,rate,17.11,Q4,17.106441497802734,exact,True
+4,Total cholesterol,Q4: >219.45–456.62,rate_lo,13.36,Q4,13.360272462570133,exact,True
+4,Total cholesterol,Q4: >219.45–456.62,rate_hi,21.58,Q4,21.577447856029345,exact,True
+4,Total cholesterol,Q4: >219.45–456.62,events,71.0,Q4,71.0,exact,True
+4,Total cholesterol,Q4: >219.45–456.62,py,4150.5,Q4,4150.4833984375,exact,True

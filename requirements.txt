@@ -1,0 +1,10 @@
+numpy>=2.0,<3
+pandas>=2.1,<4
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+statsmodels>=0.14,<1
+matplotlib>=3.8,<4
+lifelines>=0.29,<1
+torch>=2.2,<3
+lightgbm>=4.3,<5
+xgboost>=2.0,<4
